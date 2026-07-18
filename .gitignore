@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# Dataset
+data/
+
+# Training
+checkpoints/
+outputs/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
